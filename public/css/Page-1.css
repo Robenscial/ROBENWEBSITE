@@ -1,0 +1,125 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 188px;
+  font-size: 1.25rem;
+  margin: -127px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 800px;
+  height: 600px;
+  margin: 153px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 305px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 712px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 540px;
+    margin-top: -307px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-size: 2.25rem;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 505px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 217px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 405px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 629px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+    margin-top: 205px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 255px;
+    margin-top: -214px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+    margin-top: 30px;
+    margin-right: 23px;
+    margin-left: -23px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 264px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 252px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 82px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -281px;
+  }
+}

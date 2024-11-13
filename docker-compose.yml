@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  website:
+    build: .
+    image: robenwebsite:latest
+    ports:
+      - "8000:80"
+    volumes:
+      - "./:/var/www/html"
+    env_file:
+      - .env
+
+  database:
+    image: mariadb:11.3.2
+    environment:
+      MARIADB_ROOT_PASSWORD: ${MARIADB_PASSWORD}
+      MARIADB_DATABASE: ${MARIADB_DATABASE}
+    volumes:
+      - ./database:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    environment:
+      PMA_HOST: database
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+    ports:
+      - "8001:80"
+    depends_on:
+      - database

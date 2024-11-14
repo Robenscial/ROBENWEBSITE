@@ -21,7 +21,7 @@
             "url": "/",
             "logo": "images/logo.png",
             "sameAs": [
-                "www.linkedin.com/in/robensciale-faha"
+                "https//:www.linkedin.com/in/robensciale-faha"
             ]
         }</script>
     <meta name="theme-color" content="#478ac9">
@@ -151,7 +151,7 @@
                             </h4>
                             <h6 class="u-text u-text-10">
 
-                                <font style="vertical-align: inherit;">Électronique | Robotique | ​IOT | GTB | Développement | DevOps</font>
+                                <font style="vertical-align: inherit;">Électronique | Robotique | IOT | GTB | Développement | DevOps</font>
 
                             </h6>
                         </div>

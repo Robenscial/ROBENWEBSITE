@@ -191,13 +191,5 @@
           <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <p class="u-text">
-        <span>This site was created with the </span>
-        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
-          <span>Nicepage</span>
-        </a>
-      </p>
-    </section>
   
 </body></html>

@@ -30,7 +30,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -207,7 +207,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
   

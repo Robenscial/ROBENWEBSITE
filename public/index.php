@@ -31,7 +31,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-home-page="https://robenfaha.nicepage.io/CV.html?version=6ee9c1e0-cd3e-947d-ab85-2d23b5560d2b" data-home-page-title="CV" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -67,7 +67,7 @@
       </div></header>
     <section class="u-clearfix u-palette-5-light-3 u-section-1" id="sec-4d62">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="custom-expanded u-image u-image-default u-image-1" src="../images/Robensciale_FAHADEFFO_IOT_page-0001.jpg" alt="" data-image-width="1240" data-image-height="1755" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
+        <img class="custom-expanded u-image u-image-default u-image-1" src="images/Robensciale_FAHADEFFO_IOT_page-0001.jpg" alt="" data-image-width="1240" data-image-height="1755" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
         <h3 class="u-text u-text-1"></h3>
         <a class="u-border-none u-btn u-button-link u-button-style u-none u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-1-base u-btn-1" data-href="#" href="https://drive.google.com/file/d/1wvqNhCK9hlYaudb7FcIdGTf-jzm5qAKM/view?usp=drive_link" target="_blank">
           <font style="vertical-align: inherit;">
@@ -76,7 +76,7 @@
                 <font style="vertical-align: inherit;"></font>
               </font>
             </font>
-          </font><span class="u-file-icon u-icon u-icon-1"><img src="../images/75240.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;">
+          </font><span class="u-file-icon u-icon u-icon-1"><img src="images/75240.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">
               <font style="vertical-align: inherit;">
                 <font style="vertical-align: inherit;">
@@ -492,7 +492,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

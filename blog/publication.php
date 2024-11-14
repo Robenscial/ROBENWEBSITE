@@ -27,7 +27,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="../public/images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -65,7 +65,7 @@
       <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1"><!--post_details--><!--post_details_options_json--><!--{"source":""}--><!--/post_details_options_json--><!--blog_post-->
         <div class="u-container-style u-expanded-width u-post-details u-post-details-1">
           <div class="u-container-layout u-valign-middle u-container-layout-1"><!--blog_post_image-->
-            <img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../images/0fd3416c.jpeg"><!--/blog_post_image--><!--blog_post_header-->
+            <img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../public/images/0fd3416c.jpeg"><!--/blog_post_image--><!--blog_post_header-->
             <h2 class="u-blog-control u-text u-text-1">Titre de publication 1</h2><!--/blog_post_header--><!--blog_post_metadata-->
             <div class="u-blog-control u-metadata u-metadata-1"><!--blog_post_metadata_date-->
               <span class="u-meta-date u-meta-icon">07 nov. 2024</span><!--/blog_post_metadata_date--><!--blog_post_metadata_category-->
@@ -479,7 +479,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="../public/images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

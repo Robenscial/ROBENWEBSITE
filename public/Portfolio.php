@@ -32,7 +32,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -112,21 +112,21 @@
         <div class="u-repeater u-repeater-1">
           <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
             <div class="u-container-layout u-similar-container u-container-layout-1">
-              <img class="custom-expanded u-image u-image-1" src="../images/logo.png" data-image-width="1411" data-image-height="1600">
+              <img class="custom-expanded u-image u-image-1" src="images/logo.png" data-image-width="1411" data-image-height="1600">
               <h4 class="u-text u-text-1"> DIMACOM-TECH</h4>
               <p class="u-text u-text-2"> Conception et réalisation des cartes de commande à microcontrôleur pour l'automatisation des portails et interface de commande des équipements électriques courant continu</p>
             </div>
           </div>
           <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
             <div class="u-container-layout u-similar-container u-container-layout-2">
-              <img class="custom-expanded u-image u-image-2" src="../images/Labred.jpeg" data-image-width="200" data-image-height="200">
+              <img class="custom-expanded u-image u-image-2" src="images/Labred.jpeg" data-image-width="200" data-image-height="200">
               <h4 class="u-text u-text-3"> LABRED</h4>
               <p class="u-text u-text-4">Suspendisse vulputate eros in velit fermentum cursus. Nulla fringilla justo tellus, at sodales eros laoreet a.</p>
             </div>
           </div>
           <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-white u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
             <div class="u-container-layout u-similar-container u-container-layout-3">
-              <img class="custom-expanded u-image u-image-3" src="../images/UBM.png" data-image-width="225" data-image-height="225">
+              <img class="custom-expanded u-image u-image-3" src="images/UBM.png" data-image-width="225" data-image-height="225">
               <h4 class="u-text u-text-5">UBM</h4>
               <p class="u-text u-text-6"> Installation d'un systèmes domotise dans une résidence tertiaire avec la possibilité de contrôler les équipement électriques a distance</p>
             </div>
@@ -144,7 +144,7 @@
           <div class="u-gallery-inner u-gallery-inner-1">
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-1" data-href="Blog.html">
               <div class="u-back-slide" data-image-width="1749" data-image-height="980">
-                <img class="u-back-image u-expanded" src="../images/IOT.jpg">
+                <img class="u-back-image u-expanded" src="images/IOT.jpg">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-1">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -153,7 +153,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-2" data-href="blog/blog.html">
               <div class="u-back-slide" data-image-width="1024" data-image-height="1024">
-                <img class="u-back-image u-expanded" src="../images/electronic.jpg">
+                <img class="u-back-image u-expanded" src="images/electronic.jpg">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-2">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -162,7 +162,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-3" data-href="blog/blog.html">
               <div class="u-back-slide" data-image-width="260" data-image-height="280">
-                <img class="u-back-image u-expanded" src="../images/AI.webp">
+                <img class="u-back-image u-expanded" src="images/AI.webp">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-3">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -171,7 +171,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-4" data-href="blog/blog.html">
               <div class="u-back-slide" data-image-width="612" data-image-height="408">
-                <img class="u-back-image u-expanded" src="../images/dev.jpg">
+                <img class="u-back-image u-expanded" src="images/dev.jpg">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-4">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -180,7 +180,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-5" data-href="blog/blog.html">
               <div class="u-back-slide" data-image-width="1000" data-image-height="667">
-                <img class="u-back-image u-expanded" src="../images/devops-1.jpg">
+                <img class="u-back-image u-expanded" src="images/devops-1.jpg">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-5">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -189,7 +189,7 @@
             </div>
             <div class="u-effect-fade u-effect-hover-zoom u-gallery-item u-shape-rectangle u-gallery-item-6" data-href="blog/blog.html">
               <div class="u-back-slide" data-image-width="1300" data-image-height="1390">
-                <img class="u-back-image u-expanded" src="../images/cloud.jpg">
+                <img class="u-back-image u-expanded" src="images/cloud.jpg">
               </div>
               <div class="u-over-slide u-shading u-valign-middle u-over-slide-6">
                 <h1 class="u-gallery-heading" style=""></h1>
@@ -207,47 +207,47 @@
           <div class="u-repeater u-repeater-1">
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-1">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-1" data-image-width="600" data-image-height="600" src="../images/asm.png" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-1" data-image-width="600" data-image-height="600" src="images/asm.png" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="600" data-image-height="600" src="../images/c-2.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-delay="1000" data-animation-out="0">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="600" data-image-height="600" src="images/c-2.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-delay="1000" data-animation-out="0">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-3">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="650" data-image-height="470" src="../images/cpp-3.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="650" data-image-height="470" src="images/cpp-3.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-4">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="512" data-image-height="512" src="../images/R.png" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="512" data-image-height="512" src="images/R.png" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-5">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="1280" data-image-height="720" src="../images/Python.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="1280" data-image-height="720" src="images/Python.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-6">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="1600" data-image-height="1690" src="../images/JS.webp" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="1600" data-image-height="1690" src="images/JS.webp" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-7">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-7" data-image-width="750" data-image-height="1000" src="../images/flat750x075f-pad750x1000f8f8f8.u2.jpg" data-animation-name="customAnimationIn" data-animation-duration="5000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-7" data-image-width="750" data-image-height="1000" src="images/flat750x075f-pad750x1000f8f8f8.u2.jpg" data-animation-name="customAnimationIn" data-animation-duration="5000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-8">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-8" data-image-width="600" data-image-height="600" src="../images/R-1.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-8" data-image-width="600" data-image-height="600" src="images/R-1.jpg" data-animation-name="customAnimationIn" data-animation-duration="4000" data-animation-out="0" data-animation-delay="1000">
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-9">
-                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-9" data-image-width="600" data-image-height="600" src="../images/R-1.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-out="0">
+                <img alt="" class="infinite u-expanded-height u-image u-image-contain u-image-default u-image-9" data-image-width="600" data-image-height="600" src="images/R-1.jpg" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-out="0">
               </div>
             </div>
           </div>
@@ -460,7 +460,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

@@ -27,7 +27,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="../public/images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -69,7 +69,7 @@
               <h4 class="u-blog-control u-text u-text-1">
                 <a class="u-post-header-link" href="../blog/publication-5.html">Titre de publication 6</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="../blog/publication-5.html"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../images/8ad73f3c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="../blog/publication-5.html"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../public/images/8ad73f3c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-2 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="../blog/publication-5.html" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-1"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -78,7 +78,7 @@
               <h4 class="u-blog-control u-text u-text-3">
                 <a class="u-post-header-link" href="../blog/publication-4.html">Titre de publication 5</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="../blog/publication-4.html"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-2" src="../images/68f64b9d.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="../blog/publication-4.html"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-2" src="../public/images/68f64b9d.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-4 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="../blog/publication-4.html" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-2"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -87,7 +87,7 @@
               <h4 class="u-blog-control u-text u-text-5">
                 <a class="u-post-header-link" href="publication-3.php">Titre de publication 4</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="publication-3.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-3" src="../images/0fd3416c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="publication-3.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-3" src="../public/images/0fd3416c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-6 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="publication-3.php" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-3"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -96,7 +96,7 @@
               <h4 class="u-blog-control u-text u-text-1">
                 <a class="u-post-header-link" href="publication-2.php">Titre de publication 3</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="publication-2.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../images/8ad73f3c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="publication-2.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="../public/images/8ad73f3c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-2 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="publication-2.php" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-1"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -105,7 +105,7 @@
               <h4 class="u-blog-control u-text u-text-3">
                 <a class="u-post-header-link" href="publication-1.php">Titre de publication 2</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="publication-1.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-2" src="../images/68f64b9d.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="publication-1.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-2" src="../public/images/68f64b9d.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-4 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="publication-1.php" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-2"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -114,7 +114,7 @@
               <h4 class="u-blog-control u-text u-text-5">
                 <a class="u-post-header-link" href="publication.php">Titre de publication 1</a>
               </h4><!--/blog_post_header--><!--blog_post_image-->
-              <a class="u-post-header-link" href="publication.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-3" src="../images/0fd3416c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
+              <a class="u-post-header-link" href="publication.php"><img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-3" src="../public/images/0fd3416c.jpeg"></a><!--/blog_post_image--><!--blog_post_content-->
               <div class="u-blog-control u-post-content u-text u-text-6 fr-view">Exemple de texte court. Lorem ipsum dolor sit amet.</div><!--/blog_post_content--><!--blog_post_readmore-->
               <a href="publication.php" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-3"><!--blog_post_readmore_content--><!--options_json--><!--{"content":"Read More","defaultValue":"Lire la suite"}--><!--/options_json-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
             </div>
@@ -524,7 +524,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="../public/images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

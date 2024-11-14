@@ -30,7 +30,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -96,7 +96,7 @@
                   <h3 class="u-align-center u-text u-text-5">
                     <a class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-base u-palette-2-base u-radius u-text-active-white u-text-hover-white u-text-white u-btn-1" data-href="#" href="Contact.php">
 
-                      </font><span class="u-file-icon u-icon u-icon-1"><img src="../images/2590807.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;"></font>
+                      </font><span class="u-file-icon u-icon u-icon-1"><img src="images/2590807.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;"></font>
 
                       <font style="vertical-align: inherit;">Contact</font>
 
@@ -105,7 +105,7 @@
                   <h3 class="u-text u-text-custom-color-1 u-text-6">
                     <a class="u-border-none u-btn u-btn-round u-button-style u-hover-palette-1-base u-palette-2-base u-radius u-text-hover-white u-text-white u-btn-2" data-href="#" href="Portfolio.php">
 
-                      </font><span class="u-file-icon u-icon u-icon-2"><img src="../images/1390425.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;"></font>
+                      </font><span class="u-file-icon u-icon u-icon-2"><img src="images/1390425.png" alt=""></span>&nbsp;<font style="vertical-align: inherit;"></font>
 
                       <font style="vertical-align: inherit;">&nbsp;Portfolio</font>
 
@@ -137,7 +137,7 @@
             <div class="u-layout-row">
               <div class="u-align-left u-container-align-left u-container-align-left-lg u-container-align-left-md u-container-align-left-sm u-container-align-left-xl u-container-style u-hover-feature u-layout-cell u-shape-round u-size-15 u-size-15-md u-layout-cell-1" data-href="#">
                 <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-1">
-                  <img class="custom-expanded u-image u-image-1" src="../images/esp32.jpg" data-image-width="400" data-image-height="400">
+                  <img class="custom-expanded u-image u-image-1" src="images/esp32.jpg" data-image-width="400" data-image-height="400">
                   <h6 class="u-text u-text-default u-text-3">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit;">ESP32 est un microcontroleur qui integre un module wifi pour une facilite de connectivite</font>
@@ -148,7 +148,7 @@
               </div>
               <div class="u-align-left u-container-align-left u-container-align-left-lg u-container-align-left-md u-container-align-left-sm u-container-align-left-xl u-container-style u-hover-feature u-layout-cell u-size-15 u-size-15-md u-layout-cell-2">
                 <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-2">
-                  <img class="custom-expanded u-image u-image-contain u-image-2" src="../images/PI.jpg" data-image-width="771" data-image-height="652">
+                  <img class="custom-expanded u-image u-image-contain u-image-2" src="images/PI.jpg" data-image-width="771" data-image-height="652">
                   <h6 class="u-text u-text-4">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit;">Le Raspberry pi est un micro ordinateur qui intègre les sorties GPIO pour interagir avec le monde extérieure </font>
@@ -159,7 +159,7 @@
               </div>
               <div class="u-align-left u-container-align-left u-container-style u-hover-feature u-layout-cell u-size-15 u-size-15-md u-layout-cell-3">
                 <div class="u-border-2 u-border-grey-75 u-container-layout u-container-layout-3">
-                  <img class="custom-expanded u-image u-image-3" src="../images/unnamed.jpeg" data-image-width="240" data-image-height="240">
+                  <img class="custom-expanded u-image u-image-3" src="images/unnamed.jpeg" data-image-width="240" data-image-height="240">
                   <h6 class="u-text u-text-5">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit;">
@@ -174,7 +174,7 @@
               </div>
               <div class="u-align-left u-container-align-left u-container-style u-hover-feature u-layout-cell u-size-15 u-size-15-md u-layout-cell-4">
                 <div class="u-border-2 u-border-grey-75 u-container-layout u-valign-top u-container-layout-4">
-                  <img class="custom-expanded u-image u-image-4" src="../images/Microchip.jpg" data-image-width="298" data-image-height="250">
+                  <img class="custom-expanded u-image u-image-4" src="images/Microchip.jpg" data-image-width="298" data-image-height="250">
                   <h6 class="u-text u-text-6">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit;">Microchip offre plusieurs gammes de microcontrôleur notamment les gammes des PIC et les gammes ATMEGA </font>
@@ -211,22 +211,22 @@
               <div class="u-repeater u-repeater-1">
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-2">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="../images/html5-logo-png-transparent-5.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="images/html5-logo-png-transparent-5.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-3">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="../images/crazy-web-studio-css3-developers.jpg">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="images/crazy-web-studio-css3-developers.jpg">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-4">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="300" data-image-height="300" src="../images/mysql-300x300.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="300" data-image-height="300" src="images/mysql-300x300.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-5">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="512" data-image-height="512" src="../images/R.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="512" data-image-height="512" src="images/R.png">
                   </div>
                 </div>
               </div>
@@ -264,42 +264,42 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div class="u-repeater u-repeater-1">
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-1">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-1" data-image-width="960" data-image-height="794" src="../images/what-is-docker.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-1" data-image-width="960" data-image-height="794" src="images/what-is-docker.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-2">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="821" data-image-height="714" src="../images/kubernetes.webp">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="821" data-image-height="714" src="images/kubernetes.webp">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-3">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="920" data-image-height="920" src="../images/html5-logo-png-transparent-5.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="920" data-image-height="920" src="images/html5-logo-png-transparent-5.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-4">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="200" data-image-height="200" src="../images/crazy-web-studio-css3-developers.jpg">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="200" data-image-height="200" src="images/crazy-web-studio-css3-developers.jpg">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-5">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="833" data-image-height="833" src="../images/javascript-logo.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="833" data-image-height="833" src="images/javascript-logo.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-6">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="512" data-image-height="512" src="../images/R.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="512" data-image-height="512" src="images/R.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-7">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-7" data-image-width="300" data-image-height="300" src="../images/mysql-300x300.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-7" data-image-width="300" data-image-height="300" src="images/mysql-300x300.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-8">
-                    <img alt="" class="u-expanded-height u-hidden-xs u-image u-image-contain u-image-default u-image-8" data-image-width="300" data-image-height="300" src="../images/mysql-300x300.png">
+                    <img alt="" class="u-expanded-height u-hidden-xs u-image u-image-contain u-image-default u-image-8" data-image-width="300" data-image-height="300" src="images/mysql-300x300.png">
                   </div>
                 </div>
               </div>
@@ -321,22 +321,22 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div class="u-repeater u-repeater-1">
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-2">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="../images/html5-logo-png-transparent-5.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="images/html5-logo-png-transparent-5.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-3">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="../images/crazy-web-studio-css3-developers.jpg">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="images/crazy-web-studio-css3-developers.jpg">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-4">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="300" data-image-height="300" src="../images/mysql-300x300.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="300" data-image-height="300" src="images/mysql-300x300.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-5">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="512" data-image-height="512" src="../images/R.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="512" data-image-height="512" src="images/R.png">
                   </div>
                 </div>
               </div>
@@ -378,27 +378,27 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div class="u-repeater u-repeater-1">
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-2">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="../images/html5-logo-png-transparent-5.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-2" data-image-width="920" data-image-height="920" src="images/html5-logo-png-transparent-5.png">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-3">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="../images/crazy-web-studio-css3-developers.jpg">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-3" data-image-width="200" data-image-height="200" src="images/crazy-web-studio-css3-developers.jpg">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-4">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="750" data-image-height="1000" src="../images/flat750x075f-pad750x1000f8f8f8.u2.jpg">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-4" data-image-width="750" data-image-height="1000" src="images/flat750x075f-pad750x1000f8f8f8.u2.jpg">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-5">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="1600" data-image-height="1690" src="../images/JS.webp">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-5" data-image-width="1600" data-image-height="1690" src="images/JS.webp">
                   </div>
                 </div>
                 <div class="u-container-style u-list-item u-repeater-item">
                   <div class="u-container-layout u-similar-container u-container-layout-6">
-                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="960" data-image-height="794" src="../images/what-is-docker.png">
+                    <img alt="" class="u-expanded-height u-image u-image-contain u-image-default u-image-6" data-image-width="960" data-image-height="794" src="images/what-is-docker.png">
                   </div>
                 </div>
               </div>
@@ -481,7 +481,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                   </div>
                   <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-4" src="">
                     <div class="u-container-layout u-container-layout-4">
-                      <img class="custom-expanded u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-image u-image-round u-image-2" src="../images/images.png" data-image-width="217" data-image-height="232" data-href="#">
+                      <img class="custom-expanded u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-image u-image-round u-image-2" src="images/images.png" data-image-width="217" data-image-height="232" data-href="#">
                     </div>
                   </div>
                 </div>
@@ -503,31 +503,31 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
           <div class="u-gallery-inner u-gallery-inner-1">
             <div class="u-gallery-item">
               <div class="u-back-slide" data-image-width="821" data-image-height="714">
-                <img class="u-back-image u-expanded" src="../images/kubernetes.webp">
+                <img class="u-back-image u-expanded" src="images/kubernetes.webp">
               </div>
               <div class="u-over-slide u-shading u-over-slide-1"></div>
             </div>
             <div class="u-gallery-item">
               <div class="u-back-slide" data-image-width="600" data-image-height="600">
-                <img class="u-back-image u-expanded" src="../images/grafana.jpg">
+                <img class="u-back-image u-expanded" src="images/grafana.jpg">
               </div>
               <div class="u-over-slide u-shading u-over-slide-2"></div>
             </div>
             <div class="u-gallery-item">
               <div class="u-back-slide" data-image-width="379" data-image-height="283">
-                <img class="u-back-image u-expanded" src="../images/PROMETHEUS.webp">
+                <img class="u-back-image u-expanded" src="images/PROMETHEUS.webp">
               </div>
               <div class="u-over-slide u-shading u-over-slide-3"></div>
             </div>
             <div class="u-gallery-item">
               <div class="u-back-slide" data-image-width="866" data-image-height="650">
-                <img class="u-back-image u-expanded" src="../images/git6963.jpg">
+                <img class="u-back-image u-expanded" src="images/git6963.jpg">
               </div>
               <div class="u-over-slide u-shading u-over-slide-4"></div>
             </div>
           </div>
         </div>
-        <img class="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-image-1" src="../images/Screenshot2024-05-26150520.png" alt="" data-image-width="1483" data-image-height="843">
+        <img class="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-image-1" src="images/Screenshot2024-05-26150520.png" alt="" data-image-width="1483" data-image-height="843">
         <p class="u-align-justify u-text u-text-1">
           <span style="font-size: 1.25rem;">Resultat de notre Dashboard du Monitoring de notre cluster kubernetes du site polei</span>t, les métrics<br>&nbsp;de prometheus sont récupérées et affichées sur grafana
         </p>
@@ -548,7 +548,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         <div class="u-repeater u-repeater-1">
           <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-repeater-item u-shape-round u-white u-list-item-1" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="X" data-href="blog/blog.html">
             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-              <img src="../images/esp32-1.png" alt="" class="u-expanded-width u-image u-image-default u-image-1" data-image-width="635" data-image-height="535">
+              <img src="images/esp32-1.png" alt="" class="u-expanded-width u-image u-image-default u-image-1" data-image-width="635" data-image-height="535">
               <h3 class="u-text u-text-4">ESP 32</h3>
               <p class="u-text u-text-grey-50 u-text-5">Découvrez comment programmer l'ESP32 sur l'environnement Virtual studio code en utilisant Platform IO avec le Framework Arduino&nbsp;</p>
               <a href="#" class="u-active-palette-2-base u-border-none u-btn u-button-style u-hover-palette-2-base u-btn-1">Plus</a>
@@ -556,7 +556,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
           </div>
           <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-repeater-item u-shape-round u-video-cover u-white u-list-item-2" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500" data-animation-direction="X" data-href="blog/blog.html">
             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-              <img src="../images/stm32.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-2" data-image-width="700" data-image-height="525">
+              <img src="images/stm32.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-2" data-image-width="700" data-image-height="525">
               <h3 class="u-text u-text-6"> STM 32</h3>
               <p class="u-text u-text-grey-50 u-text-7">Découvrez comment programmer le STM32 en langage C sur keil Uvision, nous allons configurer les registres de 32 bits pour contrôler les sorties GPIO</p>
               <a href="#" class="u-active-palette-2-base u-border-none u-btn u-button-style u-hover-palette-2-base u-btn-2">plus</a>
@@ -564,7 +564,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
           </div>
           <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-repeater-item u-shape-round u-video-cover u-white u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500" data-animation-direction="X" data-href="blog/blog.html">
             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-              <img src="../images/pi4.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-3" data-image-width="630" data-image-height="473">
+              <img src="images/pi4.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-3" data-image-width="630" data-image-height="473">
               <h3 class="u-text u-text-8">RASPBERRY PI </h3>
               <p class="u-text u-text-grey-50 u-text-9">Découvrez comment installer un système Raspbian dans le Raspberry pi et comment contrôler les sorties GPIO en numériques et en analogique&nbsp;</p>
               <a href="#" class="u-active-palette-2-base u-border-none u-btn u-button-style u-hover-palette-2-base u-btn-3">plus</a>
@@ -584,7 +584,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                 <div class="u-size-15 u-size-30-md">
                   <div class="u-layout-col">
                     <div class="u-container-style u-layout-cell u-radius-30 u-shape-round u-size-40 u-white u-layout-cell-1" data-href="Contact.html">
-                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-2"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-1"><img src="../images/1344415-d61651eb.png" alt=""></span>
+                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-2"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-1"><img src="images/1344415-d61651eb.png" alt=""></span>
                         <h3 class="u-align-center u-text u-text-2"> Informatique</h3>
                         <ul class="u-align-left u-text u-text-3">
                           <li>Développements des Site Web</li>
@@ -612,7 +612,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                       <div class="u-container-layout u-container-layout-4"></div>
                     </div>
                     <div class="u-container-align-center u-container-style u-layout-cell u-radius-30 u-shape-round u-size-40 u-white u-layout-cell-4">
-                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-5"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-2"><img src="../images/3256060-28f48ef9.png" alt=""></span>
+                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-5"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-2"><img src="images/3256060-28f48ef9.png" alt=""></span>
                         <h3 class="u-align-center u-text u-text-7">Bâtiment</h3>
                         <ul class="u-align-left u-text u-text-8">
                           <li>Électricité</li>
@@ -631,7 +631,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                 <div class="u-size-15 u-size-30-md">
                   <div class="u-layout-col">
                     <div class="u-container-style u-layout-cell u-radius-30 u-shape-round u-size-40 u-white u-layout-cell-5">
-                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-6"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-3"><img src="../images/3745120-c086cbfb.png" alt=""></span>
+                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-6"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-3"><img src="images/3745120-c086cbfb.png" alt=""></span>
                         <h3 class="u-align-center u-text u-text-11">Électroniques</h3>
                         <ul class="u-align-left u-text u-text-12">
                           <li>Développement des Micrologiciels</li>
@@ -656,7 +656,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                       <div class="u-container-layout u-container-layout-8"></div>
                     </div>
                     <div class="u-container-style u-layout-cell u-radius-30 u-shape-round u-size-40 u-white u-layout-cell-8">
-                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-9"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-4"><img src="../images/6702345-6a93986d.png" alt=""></span>
+                      <div class="u-border-2 u-border-palette-2-base u-container-layout u-valign-top u-container-layout-9"><span class="u-align-center u-file-icon u-hover-feature u-icon u-icon-circle u-palette-2-base u-text-white u-icon-4"><img src="images/6702345-6a93986d.png" alt=""></span>
                         <h3 class="u-align-center u-text u-text-15">IOT</h3>
                         <ul class="u-align-left u-text u-text-16">
                           <li>Architecture de communication sans fils.</li>
@@ -789,7 +789,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
 

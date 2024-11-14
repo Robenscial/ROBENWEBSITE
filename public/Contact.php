@@ -30,7 +30,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -128,7 +128,7 @@
               </div>
               <div class="u-align-left u-container-align-left u-container-align-left-lg u-container-align-left-xl u-container-style u-layout-cell u-right-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
                 <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-2">
-                  <img src="../images/Screenshot2024-11-11165120.png" alt="" class="u-expanded-width-xs u-image u-image-round u-radius u-image-1" data-image-width="684" data-image-height="904" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
+                  <img src="images/Screenshot2024-11-11165120.png" alt="" class="u-expanded-width-xs u-image u-image-round u-radius u-image-1" data-image-width="684" data-image-height="904" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="0">
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

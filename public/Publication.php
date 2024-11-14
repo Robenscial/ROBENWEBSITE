@@ -30,7 +30,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -67,7 +67,7 @@
     <section class="skrollable u-clearfix u-palette-5-light-3 u-section-1" id="carousel_7b1d">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h5 class="u-align-center u-text u-text-body-alt-color u-text-1">Votre camping idéal !</h5>
-        <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-1" src="../images/esp32-1.png" data-image-width="635" data-image-height="535">
+        <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-1" src="images/esp32-1.png" data-image-width="635" data-image-height="535">
         <h2 class="u-align-center u-text u-text-2">Exemple de titre</h2>
       </div>
     </section>
@@ -188,7 +188,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

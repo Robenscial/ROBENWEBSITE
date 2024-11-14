@@ -30,7 +30,7 @@
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="fr"><header class="u-clearfix u-header u-palette-5-light-3 u-header" id="sec-a74b"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700; text-transform: uppercase;">
@@ -113,7 +113,7 @@
             <div class="u-repeater u-repeater-1">
               <div class="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-align-center-lg u-container-align-center-xl u-container-style u-hover-feature u-list-item u-palette-5-light-3 u-repeater-item u-shape-rectangle u-list-item-1" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500">
                 <div class="u-container-layout u-similar-container u-container-layout-2">
-                  <img src="../images/esp32-1.png" alt="" class="u-expanded-width u-image u-image-default u-image-1" data-image-width="635" data-image-height="535" data-href="blog/blog.html">
+                  <img src="images/esp32-1.png" alt="" class="u-expanded-width u-image u-image-default u-image-1" data-image-width="635" data-image-height="535" data-href="blog/blog.html">
                   <h3 class="u-text u-text-3">ESP32</h3>
                   <h6 class="u-text u-text-4"> Découvrez comment programmer l'ESP32 sur l'environnement Virtual studio code en utilisant Platform IO avec le Framework Arduino<br>
                     <br>
@@ -125,7 +125,7 @@
               </div>
               <div class="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-align-center-lg u-container-align-center-xl u-container-style u-hover-feature u-list-item u-palette-5-light-3 u-repeater-item u-shape-rectangle u-video-cover u-list-item-2" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500">
                 <div class="u-container-layout u-similar-container u-container-layout-3">
-                  <img src="../images/stm32.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-2" data-image-width="700" data-image-height="525" data-href="blog/blog.html">
+                  <img src="images/stm32.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-2" data-image-width="700" data-image-height="525" data-href="blog/blog.html">
                   <h3 class="u-text u-text-6">STM32</h3>
                   <h6 class="u-text u-text-7"> Découvrez comment programmer le STM32 en langage C sur keil Uvision, nous allons configurer les registres de 32 bits pour contrôler les sorties GPIO<br>
                   </h6>
@@ -136,7 +136,7 @@
               </div>
               <div class="u-align-center u-border-2 u-border-palette-2-base u-container-align-center u-container-align-center-lg u-container-align-center-xl u-container-style u-hover-feature u-list-item u-palette-5-light-3 u-repeater-item u-shape-rectangle u-video-cover u-list-item-3" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-delay="500">
                 <div class="u-container-layout u-similar-container u-container-layout-4">
-                  <img src="../images/pi4.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-3" data-image-width="630" data-image-height="473" data-href="blog/blog.html">
+                  <img src="images/pi4.jpg" alt="" class="u-expanded-width u-image u-image-default u-image-3" data-image-width="630" data-image-height="473" data-href="blog/blog.html">
                   <h3 class="u-text u-text-9">RASPBERRY PI</h3>
                   <h6 class="u-text u-text-10"> Découvrez comment installer un système Raspbian dans le Raspberry pi et comment contrôler les sorties GPIO en numériques et en analogique<br>&nbsp;<br>
                   </h6>
@@ -258,7 +258,7 @@
           </a>
         </div>
         <a href="#" class="u-image u-logo u-image-1" data-image-width="1411" data-image-height="1600">
-          <img src="../images/logo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/logo.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">

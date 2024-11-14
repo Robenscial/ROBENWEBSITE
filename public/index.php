@@ -41,22 +41,22 @@
       </a>
     </div>
     <div class="u-custom-menu u-nav-container">
-      <ul class="u-nav u-spacing-40 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href="Accueil.html" style="padding: 10px 0px;">Accueil</a>
+      <ul class="u-nav u-spacing-40 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href=".." style="padding: 10px 0px;">Accueil</a>
       </li><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href="Portfolio.php" style="padding: 10px 0px;">Portfolio</a>
       </li><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href="Blog.php" style="padding: 10px 0px;">Blog</a>
       </li><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href="Contact.php" style="padding: 10px 0px;">Contact</a>
-      </li><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href=".." style="padding: 10px 0px;">CV</a>
+      </li><li class="u-nav-item"><a class="u-border-5 u-border-active-custom-color-2 u-border-hover-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-2 u-text-grey-90 u-text-hover-custom-color-1" href="CV.php" style="padding: 10px 0px;">CV</a>
       </li></ul>
     </div>
     <div class="u-custom-menu u-nav-container-collapse">
       <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
         <div class="u-inner-container-layout u-sidenav-overflow">
           <div class="u-menu-close"></div>
-          <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Accueil.html">Accueil</a>
+          <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="..">Accueil</a>
           </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Portfolio.php">Portfolio</a>
           </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Blog.php">Blog</a>
           </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.php">Contact</a>
-          </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="..">CV</a>
+          </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="CV.php">CV</a>
           </li></ul>
         </div>
       </div>
